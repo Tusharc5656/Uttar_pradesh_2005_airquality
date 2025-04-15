@@ -1,6 +1,7 @@
 Project Objectives
 This project analyzes air quality data from Uttar Pradesh (2005) to uncover pollution trends, identify critical issues, and visualize key insights. The objectives are divided into five key areas:
 
+
 1.City-Wise Air Pollution Comparison
 
 Compare pollution levels (PM10) across different cities in Uttar Pradesh.
@@ -8,6 +9,8 @@ Compare pollution levels (PM10) across different cities in Uttar Pradesh.
 Identify the most and least polluted cities.
 
 Visualize rankings using bar charts to highlight disparities.
+
+
 
 2.Monthly Air Pollution Trend Analysis
 
@@ -17,6 +20,8 @@ Determine if pollution peaks during specific seasons (e.g., winter, summer).
 
 Visualize trends with line graphs to show cyclical patterns.
 
+
+
 3.Most Polluted Day Identification
 
 Pinpoint the single worst day for air quality in 2005 based on PM10 levels.
@@ -24,6 +29,8 @@ Pinpoint the single worst day for air quality in 2005 based on PM10 levels.
 Compare this day’s pollution to the annual average.
 
 Highlight the outlier using a scatter plot.
+
+
 
 4.Exploratory Data Analysis (EDA)
 
@@ -33,6 +40,8 @@ Analyze correlations between pollutants (e.g., PM10 vs. NO₂).
 
 Visualize trends over time (line plots) and pollution distribution (box plots/heatmaps).
 
+
+
 5.Pollution Distribution Analysis
 
 Understand how often extreme, moderate, or low pollution levels occur.
@@ -40,6 +49,8 @@ Understand how often extreme, moderate, or low pollution levels occur.
 Plot histograms for PM10, SO₂, and NO₂ to show frequency distributions.
 
 Identify common pollution ranges (e.g., most days fall under "moderate" PM10 levels).
+
+
 
 Key Insights
 Ghaziabad was the most polluted city; Gajraula the least.
